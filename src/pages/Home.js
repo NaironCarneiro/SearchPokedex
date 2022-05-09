@@ -39,7 +39,7 @@ export const Home = () => {
                 {pokemon ? (
                     <Pokemon >
                         <img src={pokemon.sprites.front_default} alt={pokemon.name} />
-                        <h4>Nome: nome </h4>
+                        <h4>Nome: </h4>
                         <p>nome</p>
                         <span>{pokemon.name}</span> 
                         <h4>Tipos: </h4>
