@@ -1,9 +1,15 @@
 An application with a small interface to search for pokemons, that is, a pokedex. Inside the application, a request is made to the pokemons API called PokeAPI, where the pokemons are fetched by their name.
 
-In this WEB application, the React framework and the [PokeAPI](https://pokeapi.co/) API were used.
+<h3>
+In this WEB application, the React framework, the [PokeAPI](https://pokeapi.co/) API were used, and Styled Components.
+</h3>
 
-This is a test that is part of a challenge. So a very simple interface.
+<p>This is a test that is part of a challenge. So a very simple interface.</p>
 
+<h3> - Page search pokemons</h3>
+<p align="center">
+<img width="800em" src="/src/Assets/index.png" alt="search pokemon"/>
+</p>
 
 # Getting Started with Create React App
 
